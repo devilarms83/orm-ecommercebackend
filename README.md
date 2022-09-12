@@ -50,11 +50,11 @@
 
   Screenshots:
 
-  ![TBD1](./Assets/1.png)
+  ![Database Seeded](./Assets/mysql_seed.png)
 
-  ![TBD2](./Assets/2.png)
+  ![Postman](./Assets/postman.png)
 
-  Here's a link to the video: [Video Link](https://drive.google.com/file/)
+  Here's a link to the video: [Video Link](https://drive.google.com/file/d/1XTNi0rRpZ6aCuYC__3OW76ghD4F22BIq/view?usp=sharing)
   
   ## [License](#table-of-contents)
 
